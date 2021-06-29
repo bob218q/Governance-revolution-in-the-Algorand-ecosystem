@@ -39,16 +39,16 @@ The work will be completed when AERP’s remaining 1.2 billion ALGO will be tran
 
 How will it develop?
 It will be divided into three distinct points:
-> GOVERNORS” RECRUITMENT AND REWARDS = > Allow any owner of the Something token to register as governor.
+> GOVERNORS” RECRUITMENT AND REWARDS => Allow any owner of the Something token to register as governor.
 
-> VOTING = > Voting of Governors at voting sessions.
+> VOTING => Voting of Governors at voting sessions.
 
 > EXECUTION OF THE DECISIONS => Voting results, implemented by the foundation.
 
 Algorand’s governance is different from other blockchains in several respects:
-> Fast = > With Algorand’s on-chain governance, any voting result can be immediately implemented in the ecosystem via smart contracts. Instead governance systems such as those used by Ethereum and Bitcoin require time and effort both to reach consensus and to translate the results into changes to the network.
+> Fast => With Algorand’s on-chain governance, any voting result can be immediately implemented in the ecosystem via smart contracts. Instead governance systems such as those used by Ethereum and Bitcoin require time and effort both to reach consensus and to translate the results into changes to the network.
 
-> DECENTRALIZED = > In blockchain Proof of Work like Bitcoin and Ethereum are basic protocol developers and miners with expensive hardware who can participate in governance. Here in Algorand, anyone who owns at least one ALGO can participate in governance.
+> DECENTRALIZED => In blockchain Proof of Work like Bitcoin and Ethereum are basic protocol developers and miners with expensive hardware who can participate in governance. Here in Algorand, anyone who owns at least one ALGO can participate in governance.
 
-> RISK OF FORKS ELIMINATED = > Since any account can participate in the consensus, it is difficult to create a situation where governors vote to create a crossroads for Algorand. This way you can eliminate the risk of hard forking that occurred in other blockchains such as Bitcoin-vs-Bitcoin cash but also Ethereum-vs-Ethereum Classic.
+> RISK OF FORKS ELIMINATED => Since any account can participate in the consensus, it is difficult to create a situation where governors vote to create a crossroads for Algorand. This way you can eliminate the risk of hard forking that occurred in other blockchains such as Bitcoin-vs-Bitcoin cash but also Ethereum-vs-Ethereum Classic.
 
