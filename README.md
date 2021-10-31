@@ -1,7 +1,5 @@
 # Governance-revolution-in-the-Algorand-ecosystem
-Explanations of the governance process in Algorand
-
-
+Explanations of the governance process in Algorand.
 
 Algorand’s blockchain successfully solved the blockchain trilemma by providing scalability, security and decentralization to the protocol. Governance has not been excluded from this revolution either.
 
