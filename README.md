@@ -11,7 +11,7 @@ Governance => is the power given to participants in a blockchain ecosystem to in
 Currently, in the Algorand ecosystem, the foundation holds the decision-making power and uses its power to control the pool of resources (AERP).
 
 What is the AERP?
-The AERP is a fund of 3,2 billion ALGOs earmarked for specific objectives:
+#### The AERP is a fund of 3,2 billion ALGOs earmarked for specific objectives:
 
 > ALGO GRANT PROGRAM => It consists in supporting the development of the Algorand ecosystem and the creation of proof of concept use cases through funding.
 > 
@@ -25,11 +25,10 @@ The AERP is a fund of 3,2 billion ALGOs earmarked for specific objectives:
 
 Currently, the Algorand Foundation is working to kick-start community governance, by doing so it cedes decision-making power (AERP) to any ALGO owner who chooses to participate.
 
-How to participate ?
+#### How to participate ?
 You must register at least one ALGO token for the entire duration of the governance period and also participate in all votes called within the period.
 Each Something bet will correspond to 1 vote.
 If you meet these two criteria, you will be able to claim full governance awards at a later date.
-
 
 The initial implementation of the community governance process will be carried out off-chain and the main aspect of the governance protocol will be implemented. 
 Once completed, 2 billion AERP ALGOs will be blocked.
@@ -37,7 +36,7 @@ The second phase works on the migration of the protocol to an on-chain system th
 The work will be completed when AERP’s remaining 1.2 billion ALGO will be transferred to the smart contract.
 
 
-How will it develop?
+#### How will it develop?
 It will be divided into three distinct points:
 > GOVERNORS” RECRUITMENT AND REWARDS => Allow any owner of the Something token to register as governor.
 
@@ -45,7 +44,7 @@ It will be divided into three distinct points:
 
 > EXECUTION OF THE DECISIONS => Voting results, implemented by the foundation.
 
-Algorand’s governance is different from other blockchains in several respects:
+#### Algorand’s governance is different from other blockchains in several respects:
 > Fast => With Algorand’s on-chain governance, any voting result can be immediately implemented in the ecosystem via smart contracts. Instead governance systems such as those used by Ethereum and Bitcoin require time and effort both to reach consensus and to translate the results into changes to the network.
 
 > DECENTRALIZED => In blockchain Proof of Work like Bitcoin and Ethereum are basic protocol developers and miners with expensive hardware who can participate in governance. Here in Algorand, anyone who owns at least one ALGO can participate in governance.
